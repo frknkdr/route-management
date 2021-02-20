@@ -9,7 +9,7 @@ Router ve children tanımlama,
 
 Dinamik router yönetimi,
 
-Router da query yönetimi, 
+Router da query yönetimi,
 
 Çoklu route yapısı,
 
